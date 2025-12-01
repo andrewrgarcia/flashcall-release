@@ -97,6 +97,9 @@ Manual toggle:
 
 Straightforward and predictable.
 
+### 📸 Screenshots
+<p align="center"> <img src="img/settings.png" width="300" /> <img src="img/card2.png" width="300" /> </p> <p align="center"> <img src="img/card1.png" width="300" /> <img src="img/card1confirm.png" width="300" /> </p>
+
 ---
 
 ## 📥 Installing FlashCall (APK)
