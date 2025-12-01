@@ -36,7 +36,7 @@ Just clarity and accessibility.
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrewrgarcia/FlashCall/blob/main/assets/demo.mp4">
+  <a href="https://github.com/andrewrgarcia/flashcall-release/blob/main/assets/demo.mp4">
     ▶️ Click here to watch the FlashCall demo
   </a>
 </p>
