@@ -36,7 +36,7 @@ Just clarity and accessibility.
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/ebe31b0f-7747-4514-ad49-978a5244ae8a">
+  <a href="https://github.com/andrewrgarcia/FlashCall/blob/main/assets/demo.mp4">
     ▶️ Click here to watch the FlashCall demo
   </a>
 </p>
@@ -98,7 +98,7 @@ Manual toggle:
 Straightforward and predictable.
 
 ### 📸 Screenshots
-<p align="center"> <img src="img/settings.png" width="300" /> <img src="img/card2.png" width="300" /> </p> <p align="center"> <img src="img/card1.png" width="300" /> <img src="img/card1confirm.png" width="300" /> </p>
+<p align="center"> <img src="assets/settings.png" width="300" /> <img src="assets/card1.png" width="300" /> </p> <p align="center"> <img src="assets/card2.png" width="300" /> <img src="assets/card2confirm.png" width="300" /> </p>
 
 ---
 
