@@ -36,12 +36,10 @@ Just clarity and accessibility.
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrewrgarcia/flashcall-release/blob/main/assets/demo.mp4">
+  <a href="https://github.com/user-attachments/assets/62219cb6-1c22-44fb-83c3-87eaf5c2d259">
     ▶️ Click here to watch the FlashCall demo
   </a>
 </p>
-
-
 
 
 ---
