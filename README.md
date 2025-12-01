@@ -48,7 +48,7 @@ Just clarity and accessibility.
 
 ## ✨ Key Features
 
-### 🔊 Audible Name Announcement  
+### Audible Name Announcement  
 FlashCall speaks the selected contact’s name using Android TTS.  
 This improves reliability and confidence for users who:
 
@@ -58,7 +58,7 @@ This improves reliability and confidence for users who:
 
 ---
 
-### 🎨 High-Contrast Color Panels  
+### High-Contrast Color Panels  
 Each contact can be assigned a bold, distinct color.  
 Color-coding reduces reading load and speeds recognition.
 
@@ -77,7 +77,7 @@ Keeps the main interface clean and frictionless.
 
 ---
 
-### 🔒 Fully Offline & Private  
+### Fully Offline & Private  
 FlashCall:
 
 - Stores everything locally  
@@ -89,7 +89,7 @@ Your data stays yours.
 
 ---
 
-### 🌐 Bilingual Interface  
+### Bilingual Interface  
 Manual toggle:
 
 - 🇪🇸 Español  
@@ -109,7 +109,7 @@ No Play Store required.
 
 ---
 
-## 🛠 Technical Overview
+## Technical Overview
 
 - **Kotlin + Jetpack Compose**  
 - Lightweight, responsive UI  
@@ -118,7 +118,7 @@ No Play Store required.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 FlashCall is built to help users who encounter **visibility or interaction barriers** when navigating standard WhatsApp menus.
 
@@ -127,7 +127,7 @@ FlashCall adapts the calling experience so that more people — regardless of vi
 
 ---
 
-## 📬 Download
+## Download
 
 Get the latest APK from **Releases**:  
 👉 *app-release-signed.apk*
