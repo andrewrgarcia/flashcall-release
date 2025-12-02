@@ -8,6 +8,13 @@
   <em>Accessible, high-visibility WhatsApp calling.</em>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Framework-Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/👵%20Field%20Tested-By%20My%20Grandma-blueviolet?style=flat-square&logo=android" />
+</p>
+
+
 ---
 
 ## 📱 What is FlashCall?
